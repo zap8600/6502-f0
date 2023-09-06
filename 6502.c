@@ -1,5 +1,5 @@
 #include <stdint.h>
 
-int32_t 6502_app() {
+int32_t sfot_app() {
     return 0;
 }
