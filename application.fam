@@ -1,0 +1,8 @@
+App(
+    appid="6502",
+    name="6502 Emu",
+    apptype=FlipperAppType.EXTERNAL,
+    entry_point="6502_app",
+    stack_size=4 * 1024,
+    requires=["gui"],
+)
